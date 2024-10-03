@@ -1,6 +1,6 @@
-- 👋 Hi, i am Fred Ng'ang'a 
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning computer science 
+- 👋 Hi, i am Fred Ng'ang'a .
+- 👀 I’m interested in web dev and cyber security.
+- 🌱 I’m currently learning computer science .
   
 
 <!---
